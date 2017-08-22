@@ -3510,9 +3510,9 @@
 			position: relative;
 		}
 
-		.section-with-link {
+		/*.section-with-link {
 			padding-bottom: 6em;
-		}
+		}*/
 
 			#banner .more:after,
 			#one .more:after {
@@ -3891,4 +3891,12 @@
 	border-color: #e3200f !important;
 	border-width: 1px !important;
 	margin: 1rem 0 !important;
+}
+
+.newsletter-image-wrapper {
+	text-align: center;
+}
+
+.newsletter-image {
+	max-width: 80%;
 }
